@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Spring5/01_Spring5.iml" filepath="$PROJECT_DIR$/01_Spring5/01_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Spring5/02_Spring5.iml" filepath="$PROJECT_DIR$/02_Spring5/02_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Spring5/03_Spring5.iml" filepath="$PROJECT_DIR$/03_Spring5/03_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Spring5/04_Spring5.iml" filepath="$PROJECT_DIR$/04_Spring5/04_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Spring5/05_Spring5.iml" filepath="$PROJECT_DIR$/05_Spring5/05_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Spring5/06_Spring5.iml" filepath="$PROJECT_DIR$/06_Spring5/06_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Spring5/07_Spring5.iml" filepath="$PROJECT_DIR$/07_Spring5/07_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Spring5/08_Spring5.iml" filepath="$PROJECT_DIR$/08_Spring5/08_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Spring5/09_Spring5.iml" filepath="$PROJECT_DIR$/09_Spring5/09_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Spring5/10_Spring5.iml" filepath="$PROJECT_DIR$/10_Spring5/10_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Spring5/11_Spring5.iml" filepath="$PROJECT_DIR$/11_Spring5/11_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_Spring5/12_Spring5.iml" filepath="$PROJECT_DIR$/12_Spring5/12_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Spring5/13_Spring5.iml" filepath="$PROJECT_DIR$/13_Spring5/13_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_Spring5/14_Spring5.iml" filepath="$PROJECT_DIR$/14_Spring5/14_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Spring5/15_Spring5.iml" filepath="$PROJECT_DIR$/15_Spring5/15_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Spring5/16_Spring5.iml" filepath="$PROJECT_DIR$/16_Spring5/16_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_Spring5/17_Spring5.iml" filepath="$PROJECT_DIR$/17_Spring5/17_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Spring5/18_Spring5.iml" filepath="$PROJECT_DIR$/18_Spring5/18_Spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringFramework.iml" filepath="$PROJECT_DIR$/SpringFramework.iml" />
+    </modules>
+  </component>
+</project>

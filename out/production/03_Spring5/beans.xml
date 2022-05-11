@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- 配置User对象创建 -->
+    <bean id="user" class="fun.augus.spring5.User">
+<!--        注入普通属性-->
+<!--        <property name="userName" value="李四"></property>-->
+<!--        注入null-->
+<!--        <property name="userName">-->
+<!--            <null/>-->
+<!--        </property>-->
+<!--        注入特殊符号-->
+        <property name="userName">
+            <value><![CDATA[王五]]></value>
+        </property>
+    </bean>
+</beans>
